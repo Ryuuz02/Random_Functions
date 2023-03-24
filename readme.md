@@ -1,0 +1,1 @@
+Random functions that I find to frequently use and could be useful to import rather than rewrite every time.
